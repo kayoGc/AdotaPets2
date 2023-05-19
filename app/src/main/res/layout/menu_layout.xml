@@ -216,7 +216,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:fontFamily="@font/righteousregular"
-                    android:text="Procedimentos"
+                    android:text="Parceiros"
                     android:textAllCaps="true"
                     android:textColor="#D6A45F"
                     android:textSize="20sp"
