@@ -14,6 +14,7 @@
         android:orientation="horizontal">
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardPets"
             android:layout_width="180dp"
             android:layout_height="200dp"
             android:layout_margin="10dp"
@@ -47,6 +48,7 @@
         </com.google.android.material.card.MaterialCardView>
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardAlimentos"
             android:layout_width="180dp"
             android:layout_height="200dp"
             android:layout_margin="10dp"
@@ -87,6 +89,7 @@
         android:orientation="horizontal">
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardDoacoes"
             android:layout_width="180dp"
             android:layout_height="200dp"
             android:layout_margin="10dp"
@@ -120,6 +123,7 @@
         </com.google.android.material.card.MaterialCardView>
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardServicos"
             android:layout_width="180dp"
             android:layout_height="200dp"
             android:layout_margin="10dp"
@@ -160,6 +164,7 @@
         android:orientation="horizontal">
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardLocalizar"
             android:layout_width="180dp"
             android:layout_height="200dp"
             android:layout_margin="10dp"
@@ -193,6 +198,7 @@
         </com.google.android.material.card.MaterialCardView>
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardParceiros"
             android:layout_width="180dp"
             android:layout_height="200dp"
             android:layout_margin="10dp"
